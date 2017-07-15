@@ -1,18 +1,10 @@
-  body{
-    background-color: #a9a9a9;
+  body {
+      background-color: #a9a9a9;
+      margin: 0;
   }
-
-  .red-text {
-    color: red;
-  }
-
+  
   h2 {
     font-family: Lobster, Monospace;
-  }
-
-  p {
-    font-size: 16px;
-    font-family: Monospace;
   }
 
   .thick-green-border {
@@ -20,16 +12,4 @@
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
-  }
-
-  .smaller-image {
-    width: 100px;
-  }
-
-  .silver-background {
-    background-color: silver;
-  }
-  
-  #cat-photo-form {
-    background-color: green;
   }
